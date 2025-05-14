@@ -4,3 +4,5 @@ if (x != y ) {
  x = y
  y = x
 }
+a = rnorm(100)
+hist(a,main = "Histogram A")
