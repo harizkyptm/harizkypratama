@@ -1,4 +1,4 @@
 data(mtcars)
-head(mtcars)
+summary(mtcars)
 str(mtcars)
 summary(mtcars)
