@@ -1,3 +1,4 @@
 data(mtcars)
 head(mtcars)
 str(mtcars)
+summary(mtcars)
