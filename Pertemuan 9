@@ -1,0 +1,5 @@
+indexfinger <- data.frame(
+  sex = c("M", "F"),
+  length = c(7.9, 6.5),
+  width = c(2.3, 1.7)
+)
